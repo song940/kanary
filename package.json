@@ -1,6 +1,6 @@
 {
-  "name": "@kelpjs/next",
-  "version": "2.1.21",
+  "name": "kanary",
+  "version": "2.0.9",
   "main": "index.js",
   "directories": {
     "doc": "docs",
@@ -8,7 +8,7 @@
     "test": "test"
   },
   "keywords": [
-    "kelp-next",
+    "kanary",
     "framework"
   ],
   "dependencies": {
@@ -38,14 +38,18 @@
   "scripts": {
     "test": "node ./test"
   },
-  "license": "MIT",
-  "author": "Lsong",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kelpjs/kelp-next.git"
+    "url": "git+https://github.com/song940/kanary.git"
   },
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kelpjs/kelp-next/issues"
+    "url": "https://github.com/song940/kanary/issues"
   },
-  "homepage": "https://github.com/kelpjs/kelp-next#readme"
+  "homepage": "https://github.com/song940/kanary#readme",
+  "author": {
+    "name": "Lsong",
+    "email": "song940@gmail.com",
+    "url": "https://lsong.org"
+  }
 }
